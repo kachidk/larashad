@@ -6,7 +6,7 @@ The default shadcn/ui theme and css variables were used.
 
 ## Installation
 
--   Clone repo or `npx degit nickescobedo/larashad my-app`
+-   Clone repo or `npx degit kachidk/larashad my-app`
 -   `composer install`
 -   `npm install`
 -   Copy `.env.example` to `.env` and update `.env` as necessary
